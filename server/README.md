@@ -37,5 +37,3 @@ yarn create react-app folder_name
 ```
 yarn start
 ```
-
-Certifique-se de substituir `npm creat-react-app` por `npx create-react-app` para a criação do projeto React e ajustar a ortografia de `creat` para `create`.
